@@ -1,10 +1,10 @@
 #!/bin/bash
 
 ETHPOOL=asia.sparkpool.com:3333
-ETHWALLET=0x70278496f0eaa3810d9dbdd7f388425e029013db.lolMinerWorker
+ETHWALLET=0x70278496f0eaa3810d9dbdd7f388425e029013db.Leumang
 
 ETCPOOL=etc-asia1.nanopool.org:19999
-ETCWALLET=0xe8e1673bd442235b2f6a3b9429ad888e9a8e11cd.lolMinerWorker
+ETCWALLET=0xe8e1673bd442235b2f6a3b9429ad888e9a8e11cd.Leumang
 
 cd "$(dirname "$0")"
 
